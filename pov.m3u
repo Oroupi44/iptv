@@ -12,7 +12,7 @@
 # 2. ID CARD (LINK WITH 10 tvg-number)
 # ====================================================================
 # ====================================================================
-Morocco LIVE LOGO / NAME
+Morocco LIVE LOGO / tvg-number 1
 # ====================================================================
 #EXTINF:-2 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPe0YA7CkfPCElA6gikPAUIkg8U9jhSopcnVZTGYXEog&s=10" tvg-smallchannel="2M TV" tvg-number="1" tvg-code="2000"
 
@@ -23,15 +23,13 @@ Morocco LIVE LOGO / NAME
 #EXTINF:-2 tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM" tvg-smallchannel="Arryadia" tvg-number="1" tvg-code="2003"
 
 # ====================================================================
-beIN Sports LIVE LOGO / NAME
+beIN Sports LIVE LOGO / tvg-number 2
 # ====================================================================
-#EXTINF:-2 tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM" tvg-smallchannel="beIN Sports 1" tvg-number="2" tvg-code="10"
+#EXTINF:-2 tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM" tvg-smallchannel="beIN Sports 1" tvg-number="2" tvg-code="100"
 
 
 # ====================================================================
-# 3. STOCK LINK (LINK CARD tvg-code)
-# ====================================================================
-Morocco LINKS STREAM
+# 3. MOROCCO LINK (LINK CARD 1 tvg-number)
 # ====================================================================
 #EXTINF:-3 tvg-code="2000" "HD":"https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?referer:http://www.radio2m.ma/", "LOW":"https://stream.2m.ma/live/2m_live.m3u8",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X)
@@ -49,6 +47,6 @@ Morocco LINKS STREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X)
 #EXTVLCOPT:http-referrer=https://www.snrtlive.ma/
 # ====================================================================
-Bein Sports LINKS STREAM
+Bein Sports LINKS STREAM (LINK CARD 2 tvg-number)
 # ====================================================================
-#EXTINF:-3 tvg-code="10" "sd2":https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-8liKXIWo6lufVLxkZlZ8FtxLT_Dbgj8OAoHQ_XwNJCh61CfLUAFlw75erlrHPN_aa0oejTuVKbYldaJhFRaXw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live", "hd2":https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XsdXknyZ4vtjI-NDy8YIzuHaFAQO9sqTpO7MM8bFU1H-akuu9-R0jXQzGvj9S_ofHetLBds_zszyOl4atGtjZQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
+#EXTINF:-3 tvg-code="100" "sd2":https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-8liKXIWo6lufVLxkZlZ8FtxLT_Dbgj8OAoHQ_XwNJCh61CfLUAFlw75erlrHPN_aa0oejTuVKbYldaJhFRaXw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live", "hd2":https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XsdXknyZ4vtjI-NDy8YIzuHaFAQO9sqTpO7MM8bFU1H-akuu9-R0jXQzGvj9S_ofHetLBds_zszyOl4atGtjZQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
