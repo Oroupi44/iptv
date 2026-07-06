@@ -1,0 +1,43 @@
+
+
+#EXTINF:-2 tvg-logo="https://pbs.twimg.com/media/HKFnw1WW0AAsvwD?format=png&name=small" tvg-smallchannel=beIN SPORTS MAX 4" tvg-number="2" tvg-code="400"
+
+#EXTINF:-2 tvg-logo="https://pbs.twimg.com/media/HKFn9HBXwAE0Sh5?format=png&name=small" tvg-smallchannel=beIN SPORTS MAX 5" tvg-number="2" tvg-code="500"
+
+#EXTINF:-2 tvg-logo="https://pbs.twimg.com/media/HKFoRpPXgAAgImX?format=png&name=small" tvg-smallchannel=beIN SPORTS MAX 6" tvg-number="2" tvg-code="600"
+# ====================================================================
+VOD LOGO / tvg-number 3
+# ====================================================================
+#EXTINF:-2 tvg-logo="https://api.forja.ma/static/contents/32253_poster_image_1779201566517.jpeg" tvg-smallchannel="12 h" tvg-number="2" tvg-code="film"
+
+# ====================================================================
+3.        # LINK (LINK CARD tvg-number)
+# ====================================================================
+
+# ====================================================================
+MOROCCO LINK (LINK CARD 1 tvg-number)
+# ====================================================================
+#EXTINF:-3 tvg-code="2000" "HD":"https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?referer:http://www.radio2m.ma/", "LOW":"https://stream.2m.ma/live/2m_live.m3u8",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X)
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+
+#EXTINF:-3 tvg-code="2001" "HD":"https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8", "SD":"https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_360p/chunks_dvr.m3u8", "Low":"https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_240p/chunks_dvr.m3u8",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X)
+#EXTVLCOPT:http-referrer=https://www.snrtlive.ma/
+
+#EXTINF:-3 tvg-code="2002" "HD":"https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8", "SD":"https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_360p/chunks_dvr.m3u8", "Low":"https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_240p/chunks_dvr.m3u8",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X)
+#EXTVLCOPT:http-referrer=https://www.snrtlive.ma/
+
+#EXTINF:-3 tvg-code="2003" "HD":"https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8", "SD":"https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_360p/chunks_dvr.m3u8", "Low":"https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X)
+#EXTVLCOPT:http-referrer=https://www.snrtlive.ma/
+# ====================================================================
+Bein Sports LINKS STREAM (LINK CARD 2 tvg-number)
+# ====================================================================
+#EXTINF:-3 tvg-code="100" "4K":"https://buzcdn.com/live/master.m3u8",
+
+#EXTINF:-3 tvg-code="200" "4K":"https://buzcdn.com/live/master.m3u8"
+# ====================================================================
+  MAIN VOD TVG GROUP
+# ====================================================================
