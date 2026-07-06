@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-number="1" tvg-name="World CUP 2026" tvg-logo="https://pbs.twimg.com/media/HKFAQi1WUAACJ6b?format=png&name=small" tvg-group="قائمة القنوات"
-#EXTINF:-1 tvg-id="Arryadia" tvg-name="Arryadia 480p" group-title="Morocco" tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM", Arryadia 480p
+#EXTINF:-1 tvg-id="Arryadia" tvg-name="Arryadia" group-title="Morocco" tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM", Arryadia 480p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.snrtlive.ma/
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
