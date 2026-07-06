@@ -18,7 +18,7 @@
 # ====================================================================
   MAIN VOD TVG GROUP
 # ====================================================================
-#EXTINF:-5 tvg-number="3" tvg-name="Morocco FORJA" tvg-logo="https://libs.easybroadcast.io/pixplay/snrt/logo.svg" tvg-group="VOD"
+#EXTINF:-1 tvg-number="3" tvg-name="Morocco FORJA" tvg-logo="https://libs.easybroadcast.io/pixplay/snrt/logo.svg" tvg-group="VOD"
 
 # ====================================================================
 # 2. ID CARD (LINK WITH 10 tvg-number)
