@@ -1,11 +1,11 @@
 #EXTM3U
 
 # ====================================================================
-# 1.  DES FOLDER IMPORT TO OPEN FOLDER
+# 1.  DES FOLDER IMPORT TO OPEN FOLDER / Main live
 # ====================================================================
 #EXTINF:-1 tvg-number="1" tvg-name="Morocco" tvg-logo="https://pbs.twimg.com/media/HBd7wYPWIAAu7WA?format=png&name=small" tvg-group="قائمة القنوات"
 
-#EXTINF:-1 tvg-number="2" tvg-name="beIN SPORTS" tvg-logo="https://pbs.twimg.com/media/HJeew8xWUAMEorE?format=png&name=small" tvg-group="قائمة القنوات"
+#EXTINF:-1 tvg-number="2" tvg-name="World CUP 2026" tvg-logo="https://pbs.twimg.com/media/HKFAQi1WUAACJ6b?format=png&name=small" tvg-group="قائمة القنوات"
 
 
 # ====================================================================
@@ -25,7 +25,8 @@ Morocco LIVE LOGO / tvg-number 1
 # ====================================================================
 beIN Sports LIVE LOGO / tvg-number 2
 # ====================================================================
-#EXTINF:-2 tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM" tvg-smallchannel="beIN Sports 1" tvg-number="2" tvg-code="100"
+#EXTINF:-2 tvg-logo="https://pbs.twimg.com/media/HKFBDtzXMAAhsSi?format=png&name=small" tvg-smallchannel="beIN Sports Max 1" tvg-number="2" tvg-code="100"
+#EXTINF:-2 tvg-logo="https://pbs.twimg.com/media/HKFBZusW4AAh8RB?format=png&name=small" tvg-smallchannel="beIN Sports Max 2" tvg-number="2" tvg-code="200"
 
 
 # ====================================================================
@@ -50,3 +51,5 @@ beIN Sports LIVE LOGO / tvg-number 2
 Bein Sports LINKS STREAM (LINK CARD 2 tvg-number)
 # ====================================================================
 #EXTINF:-3 tvg-code="100" "4K":"https://buzcdn.com/live/master.m3u8",
+
+#EXTINF:-3 tvg-code="200" "4K":"https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/AZ4Llh0nvFQGNZlEpagRKkqG1mkm2nEWuB5c8Qj80VDd8V5yefEoEbR1EbneZKblkCs2K4c0HMQCVagADlY1Bg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
